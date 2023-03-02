@@ -1,1 +1,1 @@
-The README file for the 0x01-git directory.
+README file Content for alx-pre_course repo
